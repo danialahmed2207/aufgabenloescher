@@ -4,20 +4,28 @@ __pycache__/
 *$py.class
 *.so
 .env
-venv/
 .venv/
+venv/
 
-# Node
+# Node.js
 node_modules/
 dist/
 dist-ssr/
 *.local
 
 # SQLite
-db.sqlite
+tasks.db
 *.sqlite3
+*.db
 
-# IDE
+# IDE / Editor
 .vscode/
 .idea/
 *.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
