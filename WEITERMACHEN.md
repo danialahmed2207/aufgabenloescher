@@ -10,7 +10,7 @@
 ### Lokales Projekt (Entwicklung)
 - [x] Ordnerstruktur `backend/` und `frontend/` erstellt
 - [x] Git initialisiert und professionelle `.gitignore` + `.gitattributes` angelegt
-- [x] GitHub-Repository verbunden: `danialahmed2207/aufgabenloescher`
+- [x] GitHub-Repository verbunden: `danialahmed2207/TaskFlow-Fullstack-Aufgabenmanager`
 - [x] Feature-Branches verwendet (`backend-setup`, `frontend-setup`) und in `main` gemergt
 - [x] **23 professionelle Commits** über 5 Projekttage verteilt (09.05. – 13.05.)
 
@@ -142,8 +142,8 @@ ssh -i /tmp/aufgabenloescher-key.pem ubuntu@NEUE-IP 'deploy-aufgabenloescher'
 
 ## 🔗 GitHub-Verbindung
 
-- **Repository:** https://github.com/danialahmed2207/aufgabenloescher
-- **Remote:** `origin` → `https://github.com/danialahmed2207/aufgabenloescher.git`
+- **Repository:** https://github.com/danialahmed2207/TaskFlow-Fullstack-Aufgabenmanager
+- **Remote:** `origin` → `https://github.com/danialahmed2207/TaskFlow-Fullstack-Aufgabenmanager.git`
 - **Branch:** `main` (aktuell)
 - **Token:** `ghp_************************************` — **gültig bis 20. Mai 2026**
   > Token ist lokal gespeichert (nicht im Repo). Bei Bedarf erneut eingeben.

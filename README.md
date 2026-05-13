@@ -55,7 +55,7 @@ aufgabenloescher/
 ### 1. Repository klonen
 
 ```bash
-git clone https://github.com/danialahmed2207/aufgabenloescher.git
+git clone https://github.com/danialahmed2207/TaskFlow-Fullstack-Aufgabenmanager.git
 cd aufgabenloescher
 ```
 

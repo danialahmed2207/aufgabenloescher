@@ -78,7 +78,7 @@ sudo apt-get install -y nodejs
 
 ```bash
 # Repository klonen
-git clone https://github.com/danialahmed2207/aufgabenloescher.git
+git clone https://github.com/danialahmed2207/TaskFlow-Fullstack-Aufgabenmanager.git
 
 # Backend einrichten
 cd backend

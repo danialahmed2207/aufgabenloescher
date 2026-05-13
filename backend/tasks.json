@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "FastAPI lernen",
+    "description": "REST API mit Python",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "React UI bauen",
+    "description": "Frontend mit Vite",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "SQLite verbinden",
+    "description": "Datenbankmodell erstellen",
+    "completed": false
+  }
+]
